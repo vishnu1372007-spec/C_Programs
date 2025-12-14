@@ -1,0 +1,5 @@
+Rollnumber,Name,Marks
+25B11CS759,Vishnu,30
+25B11CS404,Harshitha,30
+25B11CS981,Nishitha,30
+25B11CS628,Divya,30
